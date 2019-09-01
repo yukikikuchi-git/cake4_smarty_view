@@ -1,0 +1,18 @@
+{
+    "name": "yukikikuchi-git/cake4_extensions/smarty_view",
+    "description": "Smarty View Class for CakePHP v4",
+    "authors": [
+        {
+            "name": "Yuki Kikuchi"
+        }
+    ],
+    "require": {
+        
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yukikikuchi-git/cake4_smarty_view.git"
+        }
+    ]
+}
